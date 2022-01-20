@@ -1,0 +1,5 @@
+E:\Visual Studio\Assessment_Arrays\Assessment_Arrays\obj\Debug\netcoreapp3.1\Assessment_Arrays.csproj.AssemblyReference.cache
+E:\Visual Studio\Assessment_Arrays\Assessment_Arrays\obj\Debug\netcoreapp3.1\Assessment_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\Assessment_Arrays\Assessment_Arrays\obj\Debug\netcoreapp3.1\Assessment_Arrays.AssemblyInfoInputs.cache
+E:\Visual Studio\Assessment_Arrays\Assessment_Arrays\obj\Debug\netcoreapp3.1\Assessment_Arrays.AssemblyInfo.cs
+E:\Visual Studio\Assessment_Arrays\Assessment_Arrays\obj\Debug\netcoreapp3.1\Assessment_Arrays.csproj.CoreCompileInputs.cache

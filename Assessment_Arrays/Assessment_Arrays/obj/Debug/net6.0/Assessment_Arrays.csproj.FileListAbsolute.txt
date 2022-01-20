@@ -1,0 +1,15 @@
+E:\Visual Studio\Assessment_Arrays\Assessment_Arrays\bin\Debug\net6.0\Assessment_Arrays.exe
+E:\Visual Studio\Assessment_Arrays\Assessment_Arrays\bin\Debug\net6.0\Assessment_Arrays.deps.json
+E:\Visual Studio\Assessment_Arrays\Assessment_Arrays\bin\Debug\net6.0\Assessment_Arrays.runtimeconfig.json
+E:\Visual Studio\Assessment_Arrays\Assessment_Arrays\bin\Debug\net6.0\Assessment_Arrays.dll
+E:\Visual Studio\Assessment_Arrays\Assessment_Arrays\bin\Debug\net6.0\ref\Assessment_Arrays.dll
+E:\Visual Studio\Assessment_Arrays\Assessment_Arrays\bin\Debug\net6.0\Assessment_Arrays.pdb
+E:\Visual Studio\Assessment_Arrays\Assessment_Arrays\obj\Debug\net6.0\Assessment_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\Assessment_Arrays\Assessment_Arrays\obj\Debug\net6.0\Assessment_Arrays.AssemblyInfoInputs.cache
+E:\Visual Studio\Assessment_Arrays\Assessment_Arrays\obj\Debug\net6.0\Assessment_Arrays.AssemblyInfo.cs
+E:\Visual Studio\Assessment_Arrays\Assessment_Arrays\obj\Debug\net6.0\Assessment_Arrays.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Assessment_Arrays\Assessment_Arrays\obj\Debug\net6.0\Assessment_Arrays.dll
+E:\Visual Studio\Assessment_Arrays\Assessment_Arrays\obj\Debug\net6.0\ref\Assessment_Arrays.dll
+E:\Visual Studio\Assessment_Arrays\Assessment_Arrays\obj\Debug\net6.0\Assessment_Arrays.pdb
+E:\Visual Studio\Assessment_Arrays\Assessment_Arrays\obj\Debug\net6.0\Assessment_Arrays.genruntimeconfig.cache
+E:\Visual Studio\Assessment_Arrays\Assessment_Arrays\obj\Debug\net6.0\Assessment_Arrays.csproj.AssemblyReference.cache

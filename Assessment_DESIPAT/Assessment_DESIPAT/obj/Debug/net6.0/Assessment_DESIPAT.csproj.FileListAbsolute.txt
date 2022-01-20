@@ -1,0 +1,15 @@
+E:\Visual Studio\Assessment_DESIPAT\Assessment_DESIPAT\bin\Debug\net6.0\Assessment_DESIPAT.exe
+E:\Visual Studio\Assessment_DESIPAT\Assessment_DESIPAT\bin\Debug\net6.0\Assessment_DESIPAT.deps.json
+E:\Visual Studio\Assessment_DESIPAT\Assessment_DESIPAT\bin\Debug\net6.0\Assessment_DESIPAT.runtimeconfig.json
+E:\Visual Studio\Assessment_DESIPAT\Assessment_DESIPAT\bin\Debug\net6.0\Assessment_DESIPAT.dll
+E:\Visual Studio\Assessment_DESIPAT\Assessment_DESIPAT\bin\Debug\net6.0\ref\Assessment_DESIPAT.dll
+E:\Visual Studio\Assessment_DESIPAT\Assessment_DESIPAT\bin\Debug\net6.0\Assessment_DESIPAT.pdb
+E:\Visual Studio\Assessment_DESIPAT\Assessment_DESIPAT\obj\Debug\net6.0\Assessment_DESIPAT.csproj.AssemblyReference.cache
+E:\Visual Studio\Assessment_DESIPAT\Assessment_DESIPAT\obj\Debug\net6.0\Assessment_DESIPAT.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\Assessment_DESIPAT\Assessment_DESIPAT\obj\Debug\net6.0\Assessment_DESIPAT.AssemblyInfoInputs.cache
+E:\Visual Studio\Assessment_DESIPAT\Assessment_DESIPAT\obj\Debug\net6.0\Assessment_DESIPAT.AssemblyInfo.cs
+E:\Visual Studio\Assessment_DESIPAT\Assessment_DESIPAT\obj\Debug\net6.0\Assessment_DESIPAT.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Assessment_DESIPAT\Assessment_DESIPAT\obj\Debug\net6.0\Assessment_DESIPAT.dll
+E:\Visual Studio\Assessment_DESIPAT\Assessment_DESIPAT\obj\Debug\net6.0\ref\Assessment_DESIPAT.dll
+E:\Visual Studio\Assessment_DESIPAT\Assessment_DESIPAT\obj\Debug\net6.0\Assessment_DESIPAT.pdb
+E:\Visual Studio\Assessment_DESIPAT\Assessment_DESIPAT\obj\Debug\net6.0\Assessment_DESIPAT.genruntimeconfig.cache

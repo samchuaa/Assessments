@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "afea86df-f5d4-4eb8-bbb7-d4ac2e881d18": {
+      "ProjectGuid": "afea86df-f5d4-4eb8-bbb7-d4ac2e881d18",
+      "DisplayName": "Assessment_Rover",
+      "ColorIndex": 0
+    },
+    "c86a1220-6135-40cd-b292-ae57580d643d": {
+      "ProjectGuid": "c86a1220-6135-40cd-b292-ae57580d643d",
+      "DisplayName": "Assessment_Rover.Test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
